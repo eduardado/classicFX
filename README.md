@@ -19,3 +19,7 @@ Realizaremos una aplicación con dos pantallas:
         Botón volver para regresar a la búsqueda
 
 Poner el cariño y la dedicación suficiente para que la interfaz sea lo más usable posible.
+</details>
+
+<details>
+
