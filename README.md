@@ -22,4 +22,24 @@ Poner el cariño y la dedicación suficiente para que la interfaz sea lo más us
 </details>
 
 <details>
+<summary>Notas</summary>
 
+1. Planteamos navegación.
+
+</details>
+
+<details>
+<summary>Código Usado</summary>
+
+## Clases y métodos
+- Scene: setRoot();
+- Stage: setScene(); show();
+- FXMLLoader: load() 
+- Parent: 
+- Class: getResource(); : URL
+- Application: launch()
+
+## Anotaciones
+@FXML
+
+</details>
