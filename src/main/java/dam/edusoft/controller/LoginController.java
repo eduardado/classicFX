@@ -12,8 +12,7 @@ public class LoginController implements IController{
 
     @Override
     public void init() {
-        btnButton.requestFocus();
-
+        /*btnButton.requestFocus();*/
     }
 
     @FXML

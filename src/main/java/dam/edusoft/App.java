@@ -20,6 +20,7 @@ public class App extends Application {
         mPrimaryStage.show();
 
         changeScene("login");
+
     }
 
 

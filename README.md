@@ -1,5 +1,7 @@
 # ClassicFX
 
+[ejemplosAbel](https://gitlab.com/abel.ceu/interfaces-dam-jfx)
+
 <details>
 <summary>Requerimientos</summary>
 
@@ -12,7 +14,6 @@ Realizaremos una aplicación con dos pantallas:
         Botón salir para cerrar la aplicación
     Pantalla 2:
         Vemos el detalle del pedido:
-            Número de pedido
             Fecha de pedido
             Comentarios en un textarea
             Lista de detalles (código de artículo, cantidad y precio) en una tabla
@@ -33,13 +34,25 @@ Poner el cariño y la dedicación suficiente para que la interfaz sea lo más us
 
 ## Clases y métodos
 - Scene: setRoot();
-- Stage: setScene(); show();
+- Stage: setScene(); show(); setResizable(); 
 - FXMLLoader: load() 
 - Parent: 
 - Class: getResource(); : URL
 - Application: launch()
+- TextField: requestFocus()
 
 ## Anotaciones
-@FXML
+@FXML-> Para acceder a elementos del fxml
 
+</details>
+
+<details>
+<summary>Todo</summary>
+- [ ] Plantear Navegacion: Login->Order->OrderDetails
+
+</details>
+
+<details>
+<summary>Ideas</summary>
+- [ ] Añadir clearScene a IController
 </details>

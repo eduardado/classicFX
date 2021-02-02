@@ -1,6 +1,6 @@
 package dam.edusoft;
 
-/** Esta clase es necesaria para evitar bugs al arrancar la aplicación
+/** Esta clase es necesaria para evitar bugs al ejecutar
  *
  */
 public class Launcher {
